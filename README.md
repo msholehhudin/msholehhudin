@@ -11,8 +11,9 @@ I'm dedicated to building intuitive, responsive, and dynamic web applications.
 ## 🌟 Skills & Technologies
 
 - **Frontend:** Vue.js (Composition API), React.js, Next.js, SvelteKit, HTML5, CSS3, SASS, JavaScript (ES6+)
-- **State Management:** Pinia, Vuex, Redux
 - **Backend:** Node.js, Express.js, Laravel
+- **CSS Framework:** Bootstrap, Tailwind
+- **State Management:** Pinia, Vuex, Redux
 - **APIs:** RESTful APIs, Axios, Qontak for real-time chat integration
 - **Tools:** Git, GitHub
 - **Design:** Figma, Adobe XD
